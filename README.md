@@ -11,32 +11,20 @@
 
 ---
 
-### 📈 **GitHub Stats**
+<h1 align="center">🚀 GitHub Stats</h1>
 
 <div align="center">
+   <!-- GitHub Stats -->
    <a href="https://github.com/Idanada">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Idanada&show_icons=true&theme=radical&border_color=404040&include_all_commits=true&count_private=true" alt="Idan's GitHub Stats" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Idanada&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Idan's GitHub Stats" />
    </a>
+   <!-- GitHub Streak -->
    <a href="https://github.com/Idanada">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Idanada&layout=compact&theme=radical&border_color=404040&hide=html,css" alt="Top Languages" />
+      <img height="180em" src="https://streak-stats.demolab.com?user=Idanada&theme=dark&hide_border=true" alt="GitHub Streak" />
    </a>
-</div>
-
----
-
-### 🔥 **GitHub Streak**
-<div align="center">
+   <!-- Top Languages -->
    <a href="https://github.com/Idanada">
-      <img align="center" src="https://streak-stats.demolab.com/?user=Idanada&theme=radical&border_color=404040" alt="GitHub Streak" />
-   </a>
-</div>
-
----
-
-### 🚀 **GitHub Activity Graph**
-<div align="center">
-   <a href="https://github.com/Idanada">
-      <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Idanada&theme=radical&border_color=404040" alt="GitHub Activity Graph" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Idanada&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
    </a>
 </div>
 
