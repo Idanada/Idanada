@@ -26,6 +26,11 @@
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Idanada&theme=dark" alt="GitHub Streak" />
 </p>
 
+### 🚀 **GitHub Activity Graph**
+<p align="center">
+   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Idanada&theme=tokyo-night" alt="GitHub Activity Graph" />
+</p>
+
 ---
 
 ### ⚡ **Tools & Technologies**
