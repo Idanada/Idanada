@@ -18,19 +18,19 @@
       <!-- GitHub Stats -->
       <td>
          <a href="https://github.com/Idanada">
-            <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Idanada&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Idan's GitHub Stats" />
+            <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Idanada&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Idan's GitHub Stats" />
          </a>
       </td>
       <!-- GitHub Streak -->
       <td>
          <a href="https://github.com/Idanada">
-            <img height="150em" src="https://streak-stats.demolab.com?user=Idanada&theme=dark&hide_border=true" alt="GitHub Streak" />
+            <img height="140em" src="https://streak-stats.demolab.com?user=Idanada&theme=dark&hide_border=true" alt="GitHub Streak" />
          </a>
       </td>
       <!-- Top Languages -->
       <td>
          <a href="https://github.com/Idanada">
-            <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Idanada&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+            <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Idanada&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
          </a>
       </td>
    </tr>
