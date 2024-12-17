@@ -44,7 +44,7 @@
       <!-- GitHub Streak -->
       <td>
          <a href="https://github.com/Idanada">
-           <img height="150em" src="[![GitHub Streak](https://streak-stats.demolab.com/?user=Idanada&theme=dark)](https://git.io/streak-stats)" />
+           <img height="150em" src="https://streak-stats.demolab.com?user=Idanada&theme=dark&hide_border=true" alt="GitHub Streak" />
          </a>
       </td>
       <!-- Top Languages -->
