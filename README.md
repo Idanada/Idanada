@@ -1,12 +1,44 @@
-- 👋 Hi, I’m @Idanada
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Hi there, I'm Idan 👋</h1>
 
-<!---
-Idanada/Idanada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🧑‍💻 **A Few Quick Facts**
+- 🚀 CTO at **UltraSight**
+- ⚙️ Skilled in **PowerShell**, **Bash**, and **Microsoft 365** automation  
+- 🌱 Currently learning **AI integrations** and **Psytrance music production**  
+- 🔧 Projects include:  
+   - [**SentinelOne Deployment**](https://github.com/idan/project1)  
+   - [**Microsoft 365 Add-ons**](https://github.com/idan/project2)  
+- 🎶 Aspiring **Psytrance DJ** 🎧  
+- 💡 Passionate about **automation**, **cloud solutions**, and learning new tech.
+
+---
+
+### 📈 **My GitHub Stats**
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark" alt="Idan's GitHub Stats" />
+</p>
+
+---
+
+### ⚡ **Tools & Technologies**
+![Powershell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D7?style=flat&logo=microsoftazure&logoColor=white)
+![Intune](https://img.shields.io/badge/Intune-0078D7?style=flat&logo=microsoft&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+### 🎯 **Current Goals**
+- Develop AI solutions for **IT operations**  
+- Enhance my **Home Assistant** dashboard with advanced automations  
+- Produce my first **psytrance set** in Ableton 🎧  
+
+---
+
+### 🤝 **Connect with Me**
+<p align="center">
+   <a href="mailto:1it@eden-gallery.com"><img src="https://img.shields.io/badge/Email-1it@eden--gallery.com-0078D7?style=flat&logo=gmail&logoColor=white" /></a>
+   <a href="https://www.linkedin.com/in/idan-profile"><img src="https://img.shields.io/badge/LinkedIn-Profile-0078D4?style=flat&logo=linkedin&logoColor=white" /></a>
+</p>
