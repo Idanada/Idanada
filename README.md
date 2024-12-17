@@ -11,25 +11,34 @@
 
 ---
 
-### 📈 **My GitHub Stats**
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=Idanada&show_icons=true&theme=dark" alt="Idan's GitHub Stats" />
-</p>
+### 📈 **GitHub Stats**
 
-### 📊 **Top Languages**
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Idanada&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+<div align="center">
+   <a href="https://github.com/Idanada">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Idanada&show_icons=true&theme=radical&border_color=404040&include_all_commits=true&count_private=true" alt="Idan's GitHub Stats" />
+   </a>
+   <a href="https://github.com/Idanada">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Idanada&layout=compact&theme=radical&border_color=404040&hide=html,css" alt="Top Languages" />
+   </a>
+</div>
+
+---
 
 ### 🔥 **GitHub Streak**
-<p align="center">
-   <img src="https://streak-stats.demolab.com?user=Idanada&theme=dark" alt="GitHub Streak" />
-</p>
+<div align="center">
+   <a href="https://github.com/Idanada">
+      <img align="center" src="https://streak-stats.demolab.com/?user=Idanada&theme=radical&border_color=404040" alt="GitHub Streak" />
+   </a>
+</div>
+
+---
 
 ### 🚀 **GitHub Activity Graph**
-<p align="center">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Idanada&theme=tokyo-night" alt="GitHub Activity Graph" />
-</p>
+<div align="center">
+   <a href="https://github.com/Idanada">
+      <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Idanada&theme=radical&border_color=404040" alt="GitHub Activity Graph" />
+   </a>
+</div>
 
 ---
 
