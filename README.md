@@ -3,7 +3,7 @@
 ---
 
 ### 🧑‍💻 **A Few Quick Facts**
-- 🚀 CTO at **UltraSight**
+- 🚀 CTO at **ELPC**
 - ⚙️ Skilled in **PowerShell**, **Bash**, and **Microsoft 365** automation  
 - 🌱 Currently learning **AI integrations** and **Psytrance music production**  and **Home Assistant**
 - 🎶 Aspiring **Psytrance DJ** 🎧  
