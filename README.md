@@ -32,8 +32,6 @@
 ---
 
 <h2 align="left" style="font-size: 22px;">🚀 GitHub Stats</h2>
-
-<table>
    <tr>
       <!-- GitHub Stats -->
       <td>
@@ -41,6 +39,5 @@
             <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Idanada&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Idan's GitHub Stats" />
          </a>
       </td>
-</table>
 
 ---
