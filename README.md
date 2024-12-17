@@ -5,10 +5,7 @@
 ### 🧑‍💻 **A Few Quick Facts**
 - 🚀 CTO at **UltraSight**
 - ⚙️ Skilled in **PowerShell**, **Bash**, and **Microsoft 365** automation  
-- 🌱 Currently learning **AI integrations** and **Psytrance music production**  
-- 🔧 Projects include:  
-   - [**SentinelOne Deployment**](https://github.com/idan/project1)  
-   - [**Microsoft 365 Add-ons**](https://github.com/idan/project2)  
+- 🌱 Currently learning **AI integrations** and **Psytrance music production**  and **Home Assistant**
 - 🎶 Aspiring **Psytrance DJ** 🎧  
 - 💡 Passionate about **automation**, **cloud solutions**, and learning new tech.
 
