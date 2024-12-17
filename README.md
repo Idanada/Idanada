@@ -16,6 +16,22 @@
    <img src="https://github-readme-stats.vercel.app/api?username=Idanada&show_icons=true&theme=dark" alt="Idan's GitHub Stats" />
 </p>
 
+### 📊 **Top Languages**
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Idanada&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+### 🔥 **GitHub Streak**
+<p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Idanada&theme=dark" alt="GitHub Streak" />
+</p>
+
+### 🚀 **GitHub Activity Graph**
+<p align="center">
+   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Idanada&theme=tokyo-night" alt="GitHub Activity Graph" />
+</p>
+
+
 ---
 
 ### ⚡ **Tools & Technologies**
