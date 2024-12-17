@@ -34,8 +34,4 @@
 
 ---
 
-### 🤝 **Connect with Me**
-<p align="center">
-   <a href="mailto:1it@eden-gallery.com"><img src="https://img.shields.io/badge/Email-1it@eden--gallery.com-0078D7?style=flat&logo=gmail&logoColor=white" /></a>
-   <a href="https://www.linkedin.com/in/idan-profile"><img src="https://img.shields.io/badge/LinkedIn-Profile-0078D4?style=flat&logo=linkedin&logoColor=white" /></a>
-</p>
+
