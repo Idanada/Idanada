@@ -23,7 +23,7 @@
 
 ### 🔥 **GitHub Streak**
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Idanada&theme=dark" alt="GitHub Streak" />
+   <img src="https://streak-stats.demolab.com/?user=Idanada&theme=dark" alt="GitHub Streak" />
 </p>
 
 ### 🚀 **GitHub Activity Graph**
