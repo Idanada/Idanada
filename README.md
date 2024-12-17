@@ -29,8 +29,6 @@
 
 ---
 
----
-
 <h2 align="left" style="font-size: 22px;">🚀 GitHub Stats</h2>
    <tr>
       <!-- GitHub Stats -->
