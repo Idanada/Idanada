@@ -44,7 +44,7 @@
       <!-- GitHub Streak -->
       <td>
          <a href="https://github.com/Idanada">
-            <img height="140em" src="https://streak-stats.demolab.com/?user=Idanada&theme=dark" alt="GitHub Streak" />
+            <img height="150em" src="https://your-vercel-deployment-url/api?username=Idanada&theme=dark&hide_border=true" alt="GitHub Streak" />
          </a>
       </td>
       <!-- Top Languages -->
