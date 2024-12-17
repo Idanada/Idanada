@@ -11,6 +11,26 @@
 
 ---
 
+<h2 align="left" style="font-size: 22px;">⚡ Tools & Technologies</h2>
+
+![Powershell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D7?style=flat&logo=microsoftazure&logoColor=white)
+![Intune](https://img.shields.io/badge/Intune-0078D7?style=flat&logo=microsoft&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+<h2 align="left" style="font-size: 22px;">🎯 Current Goals</h2>
+
+- Develop AI solutions for **IT operations**  
+- Enhance my **Home Assistant** dashboard with advanced automations  
+- Produce my first **psytrance set** in Ableton 🎧
+
+---
+
+---
+
 <h2 align="left" style="font-size: 22px;">🚀 GitHub Stats</h2>
 
 <table>
@@ -37,19 +57,3 @@
 </table>
 
 ---
-
-<h2 align="left" style="font-size: 22px;">⚡ Tools & Technologies</h2>
-
-![Powershell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D7?style=flat&logo=microsoftazure&logoColor=white)
-![Intune](https://img.shields.io/badge/Intune-0078D7?style=flat&logo=microsoft&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
----
-
-<h2 align="left" style="font-size: 22px;">🎯 Current Goals</h2>
-
-- Develop AI solutions for **IT operations**  
-- Enhance my **Home Assistant** dashboard with advanced automations  
-- Produce my first **psytrance set** in Ableton 🎧  
