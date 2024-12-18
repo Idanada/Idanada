@@ -5,7 +5,7 @@
 ### 🧑‍💻 **A Few Quick Facts**
 - 🚀 Cloud IT Magician
 - ⚙️ Skilled in **PowerShell**, **Bash**, and **Microsoft 365** automation  
-- 🌱 Currently learning **AI integrations**, **Psytrance music production**, and **Home Assistant**
+- 🌱 Currently learning **AI integrations**, **Psytrance music production**, and **DevSecOps**
 - 🎶 Aspiring **Psytrance DJ** 🎧  
 - 💡 Passionate about **automation**, **cloud solutions**, and learning new tech.
 
