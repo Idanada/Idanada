@@ -20,7 +20,7 @@
 
 <h2 align="left" style="font-size: 22px;">🎯 Current Goals</h2>
 
-- Develop AI solutions for **IT operations**  
+- Develop AI and automaion solutions for **IT operations**  and **DevSecOps**
 - Enhance my **Home Assistant** dashboard with advanced automations  
 - Produce my first **psytrance set** in Ableton 🎧
 
